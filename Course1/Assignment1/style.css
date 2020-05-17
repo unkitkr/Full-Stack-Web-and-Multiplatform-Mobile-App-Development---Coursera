@@ -1,0 +1,11 @@
+.color-class{
+    background-color: #9575CD;
+    color: #ffffff;
+}
+.color-class-footer{
+    background-color: #D1C4E9;
+}
+.row-header{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
